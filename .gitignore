@@ -1,0 +1,13 @@
+# Your trained model and labels - never commit these, they're your own data
+keras_Model.h5
+labels.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
